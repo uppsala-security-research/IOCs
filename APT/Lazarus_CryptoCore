@@ -1,0 +1,87 @@
+Zip file SHA256
+a50ec2f42bec1c43e952de2728de0217f178440bdd8fcef70bb6db4c27e9b4bb
+a837287bf214666ca214b5530dd56edbd6469e6a6c179a6075dc64422ee5a65f
+9de0c94bffe2fb7a87d05fd0087fecefa68c9b76c20f746cad7523f335f719c2
+3249e2eb1eaa628dcf7c83062463bc6bad36515b130e760333da98ea8ffd362e
+fd6c1fe9beaa905311ab053151013d1226636c20296a0947b7c8f1d22fffa430
+
+Malicious doc file SHA256
+c60aedbb20fdea048fa2d4b3bdc520f9f9b9172ee16c01dac19b33781b1bdb1d
+7446efa798cfa7908e78e7fb2bf3ac57486be4d2edea8a798683c949d504dee6
+1533374acf886bc3015c4cba3da1c67e67111c22d00a8bbf7694c5394b91b9fc
+b077edc8d08796cdff8b75e5cb66e0191510a559941b431e38040e51b6607876
+b050545a7ffcbbcf96dc79354a6988fcc2f55bc76b67b59eaab36e7d238a7f62
+
+Malicious lnk file SHA256
+a4da4c09963be14742b1135dbbc7535b71c912dc7bbbbdadf5d0c7215bdff7d4
+901eca85c5711a53e53c48309b3afd34cbb014c91a20f8f716ee21832c7cd5e0
+426650ccd372823b531bc417e33f39582714b368953e464647b3be281f010de7
+f9e299c562195513968be88c6096957494cf15195a05c4abc907520eff872332
+516e58ddabe506c18098bd0ee842edb6c3ae4b49cbe51b844e79009d070ccc39
+915a1924ff9299cbf28e48d7e1df5a09d7fe0d6a664564aea84e63f230eaa96e
+122674a261ac7061c8a304f3e4a1fb13023f39102e5605e30f7aad0ab388dfa0
+c9a8dbac885c20cc7901fd3b53d557a808145806b36c066836039c4e656fffe9
+a42574ccb5fa0b37b36f42633c3c24a916ebf7fb093562f207859ed7c07868bf
+901eca85c5711a53e53c48309b3afd34cbb014c91a20f8f716ee21832c7cd5e0
+5d183e8950c7fd56350d5c7edd42481b7f164e34243fe832b1f4dd125da08b32
+cfbcd8b9f4e92856efd47ebcf48d78f704e38b555a0a97693cc52c800bdf2a7e
+9c3431932cdf13c6c126df26bab60259fc040e1d97c60f0bd621d9e35469c40c
+9ab13bfc2c60c1c15e677df76e8768e054d01d24f095cecf752491f785babc0b
+
+VBS Payload SHA256
+95313545aca04142c693323d9fa3175b84ed8a7dd86b676fa530ccd1d3769181
+583bc1607ca8aafa0b6ee9a4c6870085ef3f5f1823456f930ef32b0bf2229867
+6096ada01ee6b46cb5f8f8dba0b93ad885659ec961d26266526204412047ba44
+
+Bitly Phishing links
+https://bit.ly/34Zqt6Y
+https://bit.ly/2MgEsjc
+https://bit.ly/2k1fibZ
+https://bit.ly/3aMZwqG
+https://bit.ly/2BvWd6W
+https://bit.ly/32CyMoa
+https://bit.ly/2rOGr5f
+https://bit.ly/2qT8TDb
+https://bit.ly/2WKpO9I
+https://bit.ly/2vQQ9Xo
+https://bit.ly/2UiZH6V
+https://bit.ly/2LaaWcy
+https://bit.ly/2wOmlen
+https://bit.ly/2vQQ9Xo
+https://bit.ly/2U1JjGq
+https://bit.ly/31O88c3
+https://bit.ly/2SGs76y
+https://bit.ly/2mcduxg
+https://bit.ly/2px9zsv
+
+Phishing links from Bitly Redirection
+http://www.msupdatepms.xyz:8080/edit?id=WOR%2BQhmDavXldv2sjyh%2BT0j4LYqP0ZVKAenNEEfEwIjzActclow3fxmuRtjNCZL0orvVKik5oXLS5W%2Bg45HqaQ%3D%3D
+http://update.gdrives.top:8080/open?id=b7hMO0D%2ByNbNZSqXu4Putub%2BZLLqg/S66Foz0YKUjety914cQmWz32MV6BE44pEd
+http://up.digifincx.com:8080/edit?id=o7SR6HBtdvFAa0sA1KSX0CsQ7kTBPT%2Bl7aY5SEkWUzpwzDipHRXZSIy/%2BwkCrxvz8tgIFfZ%2BkJV1gw/%2Biho1UQ%3D%3D
+http://cloud.blockchaintransparency.institute:8080/edit?id=p/YToYwafP2JN9/2LSQnzrRKOtTmS/z8ij0K1kad6RSBVWXUGmGZnJ6HlseuOLYjSioYlQ3CVZZRt8CI6sMeEA%3D%3D
+http://download.showprice.xyz:8080/open?id=1qbg9gs5iLsG0BMJmCBAVWdmAbkV7WFDYPndK528Q7I%3D
+http://verify.googleauth.pro:8080/edit?id=9O2QhbItJgAh5D56gSl/ORCHKqQT6HZ%2BjWT/mPTx95%2BxPJEbBEJ9Z4wcKY2tGpKB6XqTwFLoMaPsP4E9wpExpQ%3D%3D
+http://down.financialmarketing.live:8080/open?id=0vD4jpiY3deCcY0OwbFmhey9rD8Vh9YuYQpRsICOSpwp1ER6e1n/DMh3TjdSwTzh
+http://downs.showprice.xyz:8080/open?id=kdJhKivsVHJq01OH%2BhCwaAZAcpkq7Ri5BLKcTswrEgA%3D
+http://map.navicheck.xyz:8080/open?id=s0PDwzaKKhX2B/cU33XUwjruSs8UeYo805t5zkTMhgM%3D
+http://support.gdrvcheck.co:8080/edit?id=RWuYrhMkw%2BWKbEkxNtnHL6kJYFlGyzBPcRvcGgRDRK/STqXEZ6WzTXblkoflfEv4OYSdisOf1zNgfZ0g5xF/IQ%3D%3D
+http://drverify.dns-cloud.net:8080/open?id=FAuv55oPiugXahVAaCEvpj5ErxLEaHiS2bTxNZfsnL7qe1SN6wJGL5vFX1uz2eQZ
+http://cloudfiles.club:8080/edit?id=T8YJQTVktMp8W%2Bj/W5EvDWglxOnw8evApd1RaERyZzz/Qzh2uXI/OIlDzMTGaoc57qLEkLRpQt5RK8enWJAvRA%3D%3D
+http://cloudfiles.club:8080/edit?id=lOepqccc76IU%2B/kg2arDq7LXBc6yU1oLRVyGsbumwa17WKa24BTWDfQjHmpN2zkiADURafNfh67USCBqxWsi/Q%3D%3D
+http://cloudfiles.club:8080/edit?id=7/HdL7dMbjiSRVyNnD6Sy333EpN8k94hiYqla127FCQ7IdVMXp5nvXGxeeB/Zc3AD3k14iK1osA38Hwtp5LPbA%3D%3D
+http://docs.gdriveshare.top:8080/edit?id=YsXzBOV9DorIHbBzXBE5ohD18q1BHkSWYZqshjLiCiSIqosGSpJNnigoJbtG8Y3cJniYpNTuNb/d0qaPiyZu1A%3D%3D
+http://upload.gdrives.best:8080/edit?id=g9wcj8aUD1PKXXE1s2eKetAs5m%2ByhmimyFqRMUzQKESLaqGzW%2BU4HL0h7yX8r8cOJIKs5CD4teCKKK4rv1TyQg%3D%3D
+http://service.amzonnews.club:8080/open?id=3F%2BE7HwXzwMRiysADDAgev15bAPluuPYB%2BufUnqYMCw%3D
+http://update.gdrive.tops:8080/open?id=b7hMO0D%2ByNbNZSqXu4Putub%2BZLLqg/S66Foz0YKUjety914cQmWz32MV6BE44pEd
+
+Phishing servers
+198.54.117.197
+198.54.117.198
+198.54.117.199
+198.54.117.200
+185.206.180.130
+
+C2 servers
+128.201.64.194
+203.144.133.42
+66.181.166.15

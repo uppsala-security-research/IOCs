@@ -1,2 +1,2 @@
 # IOCs
-IOCs shared to the public from research on Malicious Actors
+IOCs shared to public from research on Malicious Actors by Uppsala Security.
